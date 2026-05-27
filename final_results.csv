@@ -1,0 +1,11 @@
+query_id,query,context_relevance,answer_relevance,faithfulness,retrieval_score,top_source
+1,How can an attacker use phishing to gain initial access to a network?,0.4915,0.4951,0.463,0.5096,MITRE ATT&CK T1669
+2,What techniques do adversaries use to escalate privileges on Windows?,0.6857,0.675,0.4594,0.7196,MITRE ATT&CK T1068
+3,How do attackers move laterally across a compromised network?,0.545,0.3773,0.3587,0.5576,MITRE ATT&CK T1557
+4,What methods are used to exfiltrate sensitive data from a victim system?,0.5088,0.5278,0.6631,0.5277,MITRE ATT&CK T1052
+5,How do adversaries maintain persistence after compromising a system?,0.559,0.4295,0.5095,0.6449,MITRE ATT&CK T1070.009
+6,What techniques are used for credential dumping and password theft?,0.6401,0.6726,0.4663,0.703,MITRE ATT&CK T1003
+7,How do attackers evade antivirus and endpoint detection tools?,0.5466,0.5979,0.5021,0.5543,MITRE ATT&CK T1027.009
+8,What command and control techniques do malware authors use?,0.5681,0.5239,0.4776,0.58,MITRE ATT&CK T1587.001
+9,How can attackers exploit vulnerabilities in web applications?,0.5661,0.5563,0.4521,0.5917,MITRE ATT&CK T1203
+10,What techniques are used to perform reconnaissance before an attack?,0.4992,0.3615,0.5328,0.5263,MITRE ATT&CK T1595
