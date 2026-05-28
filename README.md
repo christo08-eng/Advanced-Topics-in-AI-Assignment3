@@ -145,10 +145,3 @@ Dettmers et al. (2023). QLoRA: Efficient Finetuning of Quantized LLMs. NeurIPS 2
 Tunstall et al. (2023). Zephyr: Direct Distillation of LM Alignment. arXiv:2310.16944.
 Es et al. (2023). RAGAS: Automated Evaluation of Retrieval Augmented Generation. arXiv:2309.15217.
 
----
-
-## License
-
-Code: MIT License
-Dataset (MITRE ATT&CK): CC BY 4.0
-Model (Zephyr-7B-beta): MIT License
